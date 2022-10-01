@@ -2,7 +2,9 @@
 
 # Sobre o Projeto 
 
-Uma aplicação que foi construida com o intuito de 
+A aplicação consiste em uma página de pesquisa, sobre os países do mundo, foi utilizada a Fetch API para consumir a API de países.
+
+- 
 
 # Funcionalidades do Projeto
 
