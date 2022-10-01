@@ -13,6 +13,12 @@ A aplicação consiste em uma página de pesquisa, sobre os países do mundo, fo
 - Filtrar os Países por região.
 - Clicar em uma bandeira de um País e ver mais informações sobre o País em uma Página separada.
 
+#Tecnologias Utlizadas 
+
+- JavaScript 
+- HTML
+- CSS
+
 # GitHub Pages
 
 https://jose-vitor303.github.io/Countries-informations/
