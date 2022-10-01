@@ -4,7 +4,7 @@
 
 A aplicação consiste em uma página de pesquisa, sobre os países do mundo, foi utilizada a Fetch API para consumir a API de países.
 
-- 
+- Link API : https://restcountries.com/v3.1/all
 
 # Funcionalidades do Projeto
 
